@@ -1,0 +1,22 @@
+@media only screen and (max-width: 768px) { html { font-size: 204.8px; } }
+@media only screen and (max-width: 414px) { html { font-size: 110.4px; } }
+@media only screen and (max-width: 375px) { html { font-size: 100px; } }
+@media only screen and (max-width: 360px) { html { font-size: 96px; } }
+@media only screen and (max-width: 320px) { html { font-size: 85.333px; } }
+.efilmReport_content_20161117 { margin: 0  0.12rem; }
+.efilmReport_content_20161117 .currentHospital_wrap { margin-top: 0.2rem; }
+.efilmReport_content_20161117 .currentHospital_wrap .currentHospital_title { height: 0.2rem; padding-left: 0.2rem; margin: 0.2rem 0 0.09rem 0px; font-size: 0.14rem; font-family: "SimSun", "Microsoft YaHei"; color: #666; }
+.efilmReport_content_20161117 .currentHospital_wrap .selectHospital { width: 100%; height: 0.44rem; position: relative; }
+.efilmReport_content_20161117 .currentHospital_wrap .selectHospital input { width: 3.4rem; height: 0.44rem; padding-left: 0.1rem; border: 0.5px solid #dedede; background-color: #f8f8f8; font-size: 0.15rem; color: #000; }
+.efilmReport_content_20161117 .currentHospital_wrap .selectHospital i { display: block; width: 0.18rem; height: 0.24rem; background: url("../images/location.png"); background-size: 0.18rem 0.24rem; position: absolute; top: 0.1rem; right: 0.08rem; }
+.efilmReport_content_20161117 .patientID { width: 100%; margin-top: 0.3rem; }
+.efilmReport_content_20161117 .patientID .patientID_title { font-size: 0.14rem; color: #666; padding-left: 0.2rem; }
+.efilmReport_content_20161117 .patientID input { width: 3.4rem; height: 0.44rem; border: 1px solid #dedede; background-color: #f8f8f8; font-size: 0.14rem; padding-left: 0.1rem; margin-top: 0.09rem; }
+.efilmReport_content_20161117 .get_efilmReport { position: relative; margin-top: 0.36rem; height: 0.48rem; }
+.efilmReport_content_20161117 .get_efilmReport .getReportBtn { width: 2.1rem; height: 0.48rem; background-color: #18c5d3; color: #fff; position: absolute; left: 50%; margin-left: -1.05rem; border: none 0; border-radius: 24px; font-size: 0.18rem; }
+
+.footer { width: 3.75rem; margin-top: 0.30rem; }
+.footer .shadow { width: 3.75rem; height: 0.40rem; }
+.footer .bg { width: 3.75rem; height: 2.59rem; }
+
+/*# sourceMappingURL=efilm_report.css.map */
